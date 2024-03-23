@@ -1,0 +1,75 @@
+body{
+    
+    background-color: rgb(215, 204, 242);
+}
+.appname{
+    font-size: 60px;
+    color: aliceblue;
+    font-family: 'Times New Roman', Times, serif;
+    padding: 20px 90px ;
+}
+
+.logo{
+    position: relative;
+    left: -5%;
+    top: 300px;
+}
+.it{
+    position: relative;
+    left: -70px;
+    height: 120px;
+    top: 50px;
+
+}
+.note{
+    height: 100px;
+    
+
+}
+.cre{
+    font-size: 25px;
+
+    
+}
+.meow{
+    display: flex;
+    margin-left: 360px;
+    position: relative;
+    top: -70px;
+    color: rgb(188, 126, 246);
+    
+
+}
+
+.btn{
+    border: none;
+    background-color: rgb(215, 204, 242);
+    font-size: 19px;
+    cursor: pointer;
+    color: rgb(186, 130, 238);
+    text-decoration: none;
+
+}
+input[type="text"] {
+    border-radius: 50px; 
+    border: 1px solid #ccc;
+    padding: 10px;
+    position: relative;
+    top: -100px;
+    left: 370px;
+}
+
+.welcome{
+    font-size: 40px;
+    color: palevioletred;
+    cursor: pointer;
+    margin-left: -220px ;
+    position: relative;
+    top:45px;
+    text-decoration: none;
+}
+.container{
+    position: relative;
+    left: 35%;
+
+}
